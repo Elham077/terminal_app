@@ -1,2 +1,19 @@
-# terminal_app
-A terminal-based contact management app built with JavaScript (Node.js). It allows users to add, view, search, and delete contacts using a simple CLI interface.
+Terminal Contact App
+
+A simple terminal-based contact management application written in JavaScript (Node.js).
+
+📦 Features
+
+- ✅ Add new contacts
+- 🔍 Search for contacts
+- 📋 List all contacts
+- ❌ Delete contacts
+
+## 🛠 Requirements
+
+- Node.js (v14 or above recommended)
+
+🚀 Getting Started
+
+1. Clone the repository:
+   git clone https://github.com/Elham077/terminal_app.git
